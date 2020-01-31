@@ -1,8 +1,8 @@
 # :two_hearts: Using Spark for Machine Learning :stuck_out_tongue_winking_eye::dog:
 
-## Introduction
-
 ![science and tech](https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif)
+
+## Introduction
 
 In this project, we will use spark to do machine learning. We will use `Amazon Product Review Dataset` as our data and analyze reviews using natural language processing (NLP).
 
