@@ -1,7 +1,3 @@
----
-author: Metin Senturk
-created: 01/30/2020
----
 # :two_hearts: Using Spark for Machine Learning :stuck_out_tongue_winking_eye::dog:
 
 ## Introduction
