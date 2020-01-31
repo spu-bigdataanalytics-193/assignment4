@@ -189,6 +189,14 @@ You may use other part of the dataset as well, such as `unixReviewTime`, for cre
 
 While doing this project, your must use `Apache Spark` in order to do operations. You can also use `pandas` and other packages that are not in `spark` environment as well, but for project purpose, our main focus is to learn pyspark API (Other ways might be computationally expensive, *time consuming*, to run).
 
+PS: Don't confuse *Spark* with *pyspark*. *Spark* is the applcation to do big data analytics, *pyspark* is the python API to interact with Spark. You need both to be installed in the platform you want to use.
+
+You can use standard python or anaconda distribution of python. I suggest you to use standard python, and create virtual environments. 
+
+[Visual Studio Code](https://code.visualstudio.com/) is a nice IDE to use, or you can use other editors as well.
+
+Jupyter has two options, `notebook` and `lab`. They are like IDEs for interactive notebooks.
+
 ### How can I run spark?
 
 As you already know from previous classes, we have multiple options.
